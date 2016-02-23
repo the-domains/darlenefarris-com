@@ -34,7 +34,7 @@ color:
     - '#C6436E'
     - '#888892'
   brandStrength: 0.1079484
-  lightness: 0.3754028
-  saturation: 0.9876477
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0.8845327
 purpose: []
