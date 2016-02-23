@@ -1,0 +1,14 @@
+layout_spectrum: 0.9232008
+color:
+  saturation: 0.235768
+  lightness: 0.3689581
+  brandStrength: 0.1079484
+  brandColors:
+    - '#FFFFFF'
+    - '#FBCDB5'
+    - '#4B4B5C'
+    - '#C6436E'
+    - '#888892'
+  rhythmicContrast: 0.1965525
+typography_spectrum: 0.8845327
+name: DarleneFarris.com
