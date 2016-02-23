@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.3603652
 color:
   saturation: 0.9876477
   brandStrength: 0.1079484
-  lightness: 0.3689581
+  lightness: 0.3754028
   brandColors:
     - '#FFFFFF'
     - '#FBCDB5'
     - '#4B4B5C'
     - '#C6436E'
     - '#888892'
-  rhythmicContrast: 0.1965525
-typography_spectrum: 0.3603652
+  rhythmicContrast: 0.8845327
 layout_spectrum: 0
 name: DarleneFarris.com
