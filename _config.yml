@@ -1,40 +1,40 @@
-name: DarleneFarris.com
 favicon: null
-layout_spectrum: 0.01901
-typography_spectrum: 0.3603652
+name: DarleneFarris.com
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.0625
+  brandStrength: 0.1079484
+  rhythmicContrast: 0.8845327
   brandColors:
     - '#FFFFFF'
     - '#FBCDB5'
     - '#4B4B5C'
     - '#C6436E'
     - '#888892'
-  brandStrength: 0.1079484
   lightness: 0.25
-  saturation: 0.0625
-  rhythmicContrast: 0.8845327
-purpose: []
+typography_spectrum: 0.3603652
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5601504
+analytics:
+  twitter: null
+  google: null
+  facebook: null
