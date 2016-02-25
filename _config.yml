@@ -1,9 +1,7 @@
-favicon: null
 name: DarleneFarris.com
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.5601504
+typography_spectrum: 0.3603652
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-color:
-  saturation: 0.0625
-  brandStrength: 0.1079484
-  rhythmicContrast: 0.8845327
-  brandColors:
-    - '#FFFFFF'
-    - '#FBCDB5'
-    - '#4B4B5C'
-    - '#C6436E'
-    - '#888892'
-  lightness: 0.25
-typography_spectrum: 0.3603652
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.5601504
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#040406'
+    - '#dce743'
+    - '#a1c45e'
+    - '#778b69'
+    - '#8e536c'
+  brandStrength: 0.8125
+  lightness: 0.0625
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
